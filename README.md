@@ -6,6 +6,10 @@
 * Date: October 2015 (but updated and uploaded more recently)
 * Progress: 100%
 
+## Demonstration
+
+![animated gif](https://i.imgur.com/M8GLZCy.gif)
+
 ## Description
 
 This application will evaluate the electron configuration of a given element. The application uses JOptionPane dialogs for input/output. The application will accept either an element symbol or an atomic number.
