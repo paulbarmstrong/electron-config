@@ -22,9 +22,9 @@ For example, an input of either **Fe** or **26** will both result in:
 
 ## Usage
 
-To use the Electron Configuration Evaluator, simply execute the jar file included in the repository.
+To use the Electron Configuration Evaluator, simply execute the jar file included in release v1.0.
 
-If you want to take a look at the code, all of the code is included in the source_code folder.
+If you want to take a look at the code, all of the code is included in the repository's *source_code* folder.
 
 ## Why
 
